@@ -1,5 +1,4 @@
 # AI Agent Guide for Shopware Frontends
-
 This document provides guidance for AI assistants working with the Shopware Frontends monorepo.
 
 ## TL;DR
