@@ -10,7 +10,7 @@
  | <a href="https://github.com/shopware/frontends/discussions">💬 Discuss</a> | <a href="https://discord.com/channels/1308047705309708348/1405501315160739951/archives/C050L6NCMGQ" target="_blank"><img src="./.readme/discord.svg" alt="Join our Discord Channel" width="20" height="16"/> Discord Channel</a>
 </p>
 
-<p align="center"> Test
+<p align="center">
 	Shopware Frontends is Shopware's Vue.js <strong>framework</strong> for building custom storefronts.
 </p>
 
