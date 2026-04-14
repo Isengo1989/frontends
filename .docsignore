@@ -1,4 +1,4 @@
-# Ignore README files at any level
+# Ignore README files at any level 
 README.md
 */README.md
 **/README.md
